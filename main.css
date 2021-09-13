@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+header{
+  background-image: url(https://www.crashbandicoot.com/content/dam/atvi/Crash/crash-touchui/global-nav/Nav_BG-dark.svg);
+  background-repeat: no-repeat;
+
+}
+
+.links{
+  display: flex;
+}
